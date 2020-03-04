@@ -1,1 +1,3 @@
-pip install python3.7.4
+heroku buildpacks:search elixir
+heroku buildpacks:info hashnuke/elixir
+heroku buildpacks:set hashnuke/elixir
