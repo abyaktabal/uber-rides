@@ -1,1 +1,1 @@
-heroku buildpacks:set heroku/python3.7.4
+pip install python3.7.4
